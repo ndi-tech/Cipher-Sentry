@@ -58,7 +58,7 @@ Cross-Platform: Compatible with major operating systems
 Quick Start (Kali Linux)
 bash
 # Clone the repository
-git clone https://github.com/yourusername/ciphersentry.git
+git clone (https://github.com/ndi-tech/Cipher-Sentry.git)
 cd ciphersentry
 
 # Install dependencies
