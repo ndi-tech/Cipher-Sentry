@@ -6,10 +6,10 @@ CipherSentry is an all-in-one, open-source cybersecurity GUI that brings togethe
 
  Why CipherSentry?
 Before CipherSentry	After CipherSentry
-❌ 5+ terminal windows	✅ One unified interface
-❌ Memorizing commands	✅ Visual configuration
-❌ Manual note-taking	✅ Automated reporting
-❌ Tool fragmentation	✅ Seamless integration
+❌ 5+ terminal windows,	✅ One unified interface,
+❌ Memorizing commands,	✅ Visual configuration,
+❌ Manual note-taking,	✅ Automated reporting,
+❌ Tool fragmentation,	✅ Seamless integration,
  Key Features
  Comprehensive Tool Integration
 Nmap Scanner - Real-time network reconnaissance with customizable profiles
